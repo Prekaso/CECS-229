@@ -1,2 +1,2 @@
 # CECS-229
-CECS 229 - Discrete Structures with Computing Applications II
+CECS 229 taught by Eunice Kang @ CSULB Fall '21 
